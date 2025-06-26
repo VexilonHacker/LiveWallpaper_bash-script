@@ -1,8 +1,5 @@
 # LiveWallpaper Bash Script
-<video width="640" height="360" controls>
-  <source src="assests/Example.mkv" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Download Video](assests/Example.gif)
 
 A simple bash script to set live video wallpapers on your Linux desktop using `xwinwrap` and `mpv`.
 
