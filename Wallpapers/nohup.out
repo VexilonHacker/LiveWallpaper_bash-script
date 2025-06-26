@@ -1,0 +1,5 @@
+xwinwrap: window type - override
+Error parsing option input-unix-cmd (option not found)
+Setting commandline option --input-unix-cmd=/tmp/xwinwrap-cmd failed.
+Exiting... (Fatal error)
+mpv died, exit status 1
